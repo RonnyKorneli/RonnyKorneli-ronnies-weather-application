@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Montserrat:wght@600&display=swap');
+
+
+
+.CityNameAndDate{
+    width: 100%;
+    height: 100px;
+    padding-left: 15px;
+    padding-top: 15px;
+    color: whitesmoke;
+
+
+        .cityName{
+            font-size: 3rem;
+            font-family: 'Montserrat', sans-serif;
+        }
+        .dayAndDate{
+            font-family: 'Montserrat', sans-serif;
+        }
+}

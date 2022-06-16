@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Montserrat:wght@600&display=swap');
+
+.TempAndIcon{
+
+    display: flex;
+
+        .leftBox{
+            color: whitesmoke;
+            width: 50%;
+            height: 200px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 15px;
+            
+                .Icon{
+                    width: 150px;
+                    height: 150px;
+                    padding: 0px;
+                    margin: 0px;
+                }
+                .celsius{
+                    font-size: 3rem;
+                    font-weight: bold;
+                    font-family: 'Montserrat', sans-serif;
+                }
+                .weatherDescription{
+                    font-family: 'Montserrat', sans-serif;
+                }
+        }
+
+        .rightBox{
+            width: 50%;
+            height: 200px;
+            background-color: rgba(255,255,255,0.2);
+            margin-right: 15px;
+            border-radius: 10px;
+            
+        }     
+}
