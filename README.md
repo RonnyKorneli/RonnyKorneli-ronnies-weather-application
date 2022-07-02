@@ -1,4 +1,4 @@
 # RonnyKorneli-ronnies-weather-application
 Weather app
 
-It might take some time before the App opens, due to how Heroku works. Sometimes It helps when you copy/paste the link and open it in a diffrent window.
+![screens from the application](<img src="https://github.com/RonnyKorneli/RonnyKorneli-ronnies-weather-application/blob/master/frontend/src/assets/photoWeatherApp.png" width="200" height="100">)
