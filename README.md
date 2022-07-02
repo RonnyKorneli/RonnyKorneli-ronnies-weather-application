@@ -5,4 +5,5 @@
 
 ### The application should look like the image above
 
-<p style="color:blue">If the carousell with hourly weather updates does not appear, please write a City name in the input field</p>
+If the carousell with hourly weather updates does not appear, please write a City name in the input field, for it to appear.
+This is due to me using the free version of Heroku. If using the free version, Heroku will put the backend to sleep if the application hasnt been used in a while.  
